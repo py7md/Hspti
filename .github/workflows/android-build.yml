@@ -20,6 +20,9 @@ jobs:
         with:
           node-version: '18'
 
+      - name: Fix Tailwind CSS Native Binding Issue
+        run: rm -f package-lock.json
+
       - name: Install dependencies
         run: npm install
 
