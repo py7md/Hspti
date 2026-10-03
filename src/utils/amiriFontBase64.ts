@@ -1,0 +1,1 @@
+export const amiriFontBase64 = "RmFpbGVkIHRvIGZldGNoIHZlcnNpb24gaW5mbyBmb3IgQGFsaWYtdHlwZS9hbWlyaS4=";
